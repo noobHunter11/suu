@@ -1,2 +1,1 @@
-# tw.api
-tw.api.miwifi.com/
+Subdomain Takeover by STALLKER41
